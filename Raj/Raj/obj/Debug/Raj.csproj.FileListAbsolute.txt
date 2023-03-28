@@ -1,0 +1,8 @@
+D:\Raj 6th sem\Raj\Raj\obj\Debug\Raj.csproj.AssemblyReference.cache
+D:\Raj 6th sem\Raj\Raj\obj\Debug\Raj.csproj.SuggestedBindingRedirects.cache
+D:\Raj 6th sem\Raj\Raj\obj\Debug\Raj.csproj.CoreCompileInputs.cache
+D:\Raj 6th sem\Raj\Raj\bin\Debug\Raj.exe.config
+D:\Raj 6th sem\Raj\Raj\bin\Debug\Raj.exe
+D:\Raj 6th sem\Raj\Raj\bin\Debug\Raj.pdb
+D:\Raj 6th sem\Raj\Raj\obj\Debug\Raj.exe
+D:\Raj 6th sem\Raj\Raj\obj\Debug\Raj.pdb
