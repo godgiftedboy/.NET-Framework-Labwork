@@ -1,0 +1,28 @@
+try
+            {
+               /* 
+                string[] names = new string[5];
+                names[0] = "Raj";
+                names[1] = "Suman";
+                names[2] = "Ronit";
+                names[3] = "Saini";
+                names[4] = "Baini";
+                foreach(string item in names)
+                {
+                    Console.WriteLine(item);
+                }
+               */
+
+            /*
+            Console.WriteLine("Enter any number:");
+            string number=Console.ReadLine();
+            int number1=Convert.ToInt32(number); 
+            Console.WriteLine("Your number is " + number1); 
+             Console.WriteLine("Your number is " + typeof(number1));
+            */
+            }
+            catch (Exception ex) {
+                Console.WriteLine(ex.Message);
+            }
+            
+            Console.ReadKey();  

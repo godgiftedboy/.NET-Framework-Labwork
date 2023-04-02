@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
+using System.Runtime.Remoting.Services;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,14 +12,22 @@ namespace Raj
     {
         static void Main(string[] args)
         {
-            Person Raj = new Person();
-            Raj.HairColor = "black";
-            Raj.NumberOfEyes = 2;
-            Console.WriteLine("Raj has " + Raj.HairColor + " colored hair");
-            Console.WriteLine("Raj has " + Raj.NumberOfEyes + " Eyes");
+            Animal cow = new Animal();
+            cow.WhatIEat();
+            cow.WhatIEat("MOMO");
+            cow.WhatIEat("Samosa", "Chowmein");
+            Console.ReadKey();  
+
+            
+            //Person Raj = new Person();
+            //Raj.HairColor = "black";
+            //Raj.NumberOfEyes = 2;
+            //Console.WriteLine("Raj has " + Raj.HairColor + " colored hair");
+            //Console.WriteLine("Raj has " + Raj.NumberOfEyes + " Eyes");
+
             //BitwiseOperator();
             //LogicalOperation();
-            Console.ReadKey();
+            //Console.ReadKey();
         }
         static void LogicalOperation()
         {
