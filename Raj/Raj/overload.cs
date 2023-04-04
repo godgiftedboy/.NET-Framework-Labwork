@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Raj
 {
     
-        public class Animal
+        public class Animals
         {
             public void WhatIEat()
             {

@@ -17,7 +17,7 @@ namespace Raj
     }
     partial class Indexer
     {
-        public string college;
+        //public string college;
         /*
         public string[] names = new string[5];
         public string this[int i] 
